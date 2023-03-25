@@ -17,7 +17,7 @@ import org.apache.ecs.html.TD;
 import org.apache.ecs.html.TR;
 import org.apache.ecs.html.Table;
 import org.owasp.webgoat.session.WebSession;
-import java.util.BASE64Encoder;
+import java.util.Base64.Encoder;
 
 
 /***************************************************************************************************
